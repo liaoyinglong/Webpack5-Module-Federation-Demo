@@ -38,7 +38,7 @@ module.exports = {
       },
       shared: {
         react: { singleton: true },
-        "react-dom": { singleton: true }
+        "react-dom": { singleton: true },
       },
     }),
     new HtmlWebpackPlugin({
